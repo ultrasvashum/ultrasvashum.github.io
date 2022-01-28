@@ -1,0 +1,48 @@
+section {
+  padding-top: 10rem;
+}
+
+#home {
+  padding-top: 8rem;
+}
+
+#About {
+  background-color: black;
+}
+
+#routine {
+  background-color: black;
+}
+
+#bulta {
+  margin-top: 12rem;
+}
+
+#fut {
+  margin-top: 5rem;
+}
+
+#team {
+  background-color: black;
+}
+
+#call {
+  background-color: black;
+}
+
+#asal {
+  background-color: white;
+}
+
+#gile {
+  position: relative;
+  bottom: 50px;
+}
+
+body {
+  font-family: 'Chakra Petch', sans-serif;
+}
+
+#rebana {
+  margin-top: 12rem;
+}
